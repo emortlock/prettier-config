@@ -1,0 +1,16 @@
+{
+  "name": "@mortlock/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier defaults",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emortlock/prettier-config.git"
+  },
+  "author": "Ed Mortlock <edward@mortlock.dev>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emortlock/prettier-config/issues"
+  },
+  "homepage": "https://github.com/emortlock/prettier-config#readme"
+}
