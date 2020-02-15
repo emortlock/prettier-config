@@ -1,4 +1,4 @@
-# `@azz/prettier-config`
+# `@mortlock/prettier-config`
 
 Shareable [Prettier](https://prettier.io) config.
 
